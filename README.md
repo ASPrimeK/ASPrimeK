@@ -1,6 +1,4 @@
-
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{ASPrime})
-
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{ASPrime}/competition/light)
 <!--
 **ASPrimeK/ASPrimeK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

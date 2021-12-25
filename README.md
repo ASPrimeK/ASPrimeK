@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![ASPrime](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{ASPrime})
 
 <!--
 **ASPrimeK/ASPrimeK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
